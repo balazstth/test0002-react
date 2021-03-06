@@ -1,0 +1,78 @@
+
+.App {
+  text-align: center;
+}
+
+.center-pane {
+  max-width: 50rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.header {
+  text-align: left;
+
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.search-box {
+  /* Stick to the top */
+  position: sticky;
+  top: 0;
+
+  border: 2px solid silver;
+  border-radius: 2px;
+  line-height: 2;
+
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  text-align: left;
+
+  width: calc(100% + 2px);
+
+  margin-left: 1px;
+  margin-bottom: 0.5rem;
+  padding: 2px 0;
+
+  border: 1px solid silver;
+
+  /* A little flex layout */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+li .country {
+  flex-basis: 65%;
+  vertical-align: top;
+}
+
+.country-line {
+  margin: 5px 0;
+}
+
+li .currency {
+  flex-basis: 10%;
+  margin-left: 1rem;
+}
+
+li .fxRate {
+  flex-basis: 25%;
+  text-align: right;
+}
+
+img {
+  vertical-align: top;
+  margin: 2px 0.6rem 2px 0;
+  height: 1.4rem;
+}
