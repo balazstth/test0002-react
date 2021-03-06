@@ -65,7 +65,7 @@ const flagsLocation = "/test0002-react/flags/";
  */
 function backupImage(name) {
     if (flagImages.includes(name.toLowerCase())) {
-        return flagsLocation + name + ".png";
+        return flagsLocation + name.toLowerCase() + ".png";
     }
     return flagsLocation + placeholderImageName + ".png";
 }
