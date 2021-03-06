@@ -8,6 +8,8 @@ https://github.com/keriati/george-fx-test
 
 This is my first ever app with React. I put up an arbitrary time limit for the dev duration: together with the research it must not be longer than two days. The solution is feature-complete, with no test coverage in this timeframe.
 
+Live demo: https://balazstth.github.io/test0002-react/
+
 Architecture:
     React
     query-string
