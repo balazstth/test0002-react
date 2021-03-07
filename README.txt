@@ -24,6 +24,7 @@ App creation:
 
 Remarks:
     - I consciously deviated from the spec in using 4 decimals in exchange rates.
+    - The site is mobile-friendly.
 
     - The term exchange rate was not clearly defined, I choose the middle one.
     - As I went further in the exercise a few more things became obscure, most of all the currency type to country induction. In a real-life scenario this would have been the most crucial point to discuss. I went with a full-fledged solution to represent all countries in the list per currency that use that currency type.
