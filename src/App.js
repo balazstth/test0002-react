@@ -179,7 +179,7 @@ function App() {
                         to <a href="https://aladar.me">aladar.me</a> or <a href="https://or.security">or.security</a>.
                         Thank you.</p>
                     <p>Please also read README.txt in the code repository.</p>
-                    <p>Search per currency:</p>
+                    <p>Search per <strong>currency</strong>:</p>
                 </header>
                 <input
                     className="search-box"
