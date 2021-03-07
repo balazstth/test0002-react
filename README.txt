@@ -36,7 +36,7 @@ TODO
     - Granular imports (e.g. from 'import React from "react";' to a more refined list).
     - Add Enzyme to the project for better GUI, URL hash, etc. testing.
     - Tests. Time, time, time. I ran out of the two days.
-    - Tests for type safety and data integrity in data mapping (countries, currencies, ISO-codes, etc.).
+    - Tests for type safety and data integrity in data handling (countries, currencies, ISO-codes, etc.).
     - Tests for content rendering. I have little experience in that area, so normally I would ask colleagues who already incorporate that in their workflow for directions. (I mostly tackled data sets and backend business logic in my testing work so far.)
 
 ================================================================================
