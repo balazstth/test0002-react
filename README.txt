@@ -6,7 +6,7 @@
 This little application was made in response to this challenge:
 https://github.com/keriati/george-fx-test
 
-This is my first ever app with React. I put up an arbitrary time limit for the dev duration: together with the research it must not be longer than two days. The solution is feature-complete, with no test coverage in this timeframe.
+It is my first ever app with React. I put up an arbitrary time limit for the dev duration: together with the research it must not be longer than two days. The solution is feature-complete, with no test coverage in this timeframe.
 
 LIVE DEMO: >>> https://balazstth.github.io/test0002-react/ <<<
 
