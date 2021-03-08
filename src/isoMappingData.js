@@ -417,13 +417,13 @@ export const isoMappingData = [
         "isoCountryCode": "748",
         "isoCountryName": "Eswatini",
         "iso2LetterCountryCode": "SZ",
-        "iso3LetterCurrencyCodes": "ETB"
+        "iso3LetterCurrencyCodes": "SZL"
     },
     {
         "isoCountryCode": "231",
         "isoCountryName": "Ethiopia",
         "iso2LetterCountryCode": "ET",
-        "iso3LetterCurrencyCodes": "EUR"
+        "iso3LetterCurrencyCodes": "ETB"
     },
     {
         "isoCountryCode": "238",
